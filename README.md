@@ -21,7 +21,7 @@ technical_skills:
   - IAM Identity Center, Security Control Policies, Security Hub
 <br/>
 past_experiences:
-  - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2021 - Feb 2026
+  - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2022 - Feb 2026
 <br/>
 fields_of_interest:
   - IT Admin
