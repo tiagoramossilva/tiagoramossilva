@@ -19,16 +19,18 @@ technical_skills:
   - Docker
   - Git, GitHub Actions
   - IAM Identity Center, Security Control Policies, Security Hub
+<br/>
 past_experiences:
   - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2021 - Feb 2026
+<br/>
 fields_of_interest:
   - IT Admin
   - Cloud
   - DevOps
-plans_to_learn:
-  - Microsoft Power Platform
+<br/>
 education:
   - Bachelor of Analysis and Systems Development, UniSENAI, Santa-Catarina, Brazil
+<br/>
 hobbies:
   - Cat memes obsession 
   - Gardening
