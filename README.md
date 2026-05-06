@@ -2,7 +2,8 @@
 <h3 align="center">Cloud & DevOps Engineer ☁️💻</h3>
 <h3 align="center">Vision above the ☁️, building in the 🏙️</h3>
 <br/>
-```yaml
+
+
 name: Tiago Ramos Silva
 location: Berlin, Germany
 job_title: Cloud & DevOps Engineer
@@ -27,4 +28,4 @@ education:
 hobbies:
   - Cat memes obsession 
   - Gardening
-```
+
