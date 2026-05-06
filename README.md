@@ -5,9 +5,13 @@
 
 
 name: Tiago Ramos Silva
+<br/>
 location: Berlin, Germany
+<br/>
 job_title: Cloud & DevOps Engineer
+<br/>
 company: I’m currently seeking work
+<br/>
 technical_skills:
   - Cloud Engineer, DevOps Engineer, IT Admin. 
   - AWS
