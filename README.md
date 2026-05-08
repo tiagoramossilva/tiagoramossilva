@@ -4,15 +4,15 @@
 <br/>
 
 
-name: Tiago Ramos Silva
+Name: Tiago Ramos Silva
 <br/>
-location: Berlin, Germany
+Location: Berlin, Germany
 <br/>
-job_title: Cloud & DevOps Engineer
+Job_title: Cloud & DevOps Engineer
 <br/>
-company: I’m currently seeking work
+Company: I’m currently seeking work
 <br/>
-technical_skills:
+Technical_skills:
   - Cloud Engineer, DevOps Engineer, IT Admin. 
   - AWS
   - Terraform, CloudFormation
@@ -20,18 +20,20 @@ technical_skills:
   - Git, GitHub Actions
   - IAM Identity Center, Security Control Policies, Security Hub
 <br/>
-past_experiences:
+Past_experiences:
+<br/>
   - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2022 - Feb 2026
 <br/>
-fields_of_interest:
+Fields_of_interest:
+<br/>
   - IT Admin
   - Cloud
   - DevOps
 <br/>
-education:
+Education:
   - Bachelor of Analysis and Systems Development, UniSENAI, Santa-Catarina, Brazil
 <br/>
-hobbies:
+Hobbies:
   - Cat memes obsession 
   - Gardening
 
