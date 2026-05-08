@@ -13,27 +13,27 @@ Job_title: Cloud & DevOps Engineer
 Company: I’m currently seeking work
 <br/>
 Technical_skills:
-  - Cloud Engineer, DevOps Engineer, IT Admin. 
-  - AWS
-  - Terraform, CloudFormation
-  - Docker
-  - Git, GitHub Actions
-  - IAM Identity Center, Security Control Policies, Security Hub
+ - Cloud Engineer, DevOps Engineer, IT Admin.
+ - AWS
+ - Terraform, CloudFormation
+ - Docker
+ - Git, GitHub Actions
+ - IAM Identity Center, Security Control Policies, Security Hub
 <br/>
 Past_experiences:
 <br/>
-  - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2022 - Feb 2026
+ - Analyst Administrative, ArcTouch, Florianópolis, Brazil, Feb 2022 - Feb 2026
 <br/>
 Fields_of_interest:
 <br/>
-  - IT Admin
-  - Cloud
-  - DevOps
+- IT Admin
+- Cloud
+- DevOps
 <br/>
 Education:
-  - Bachelor of Analysis and Systems Development, UniSENAI, Santa-Catarina, Brazil
+ - Bachelor of Analysis and Systems Development, UniSENAI, Santa-Catarina, Brazil
 <br/>
 Hobbies:
-  - Cat memes obsession 
-  - Gardening
+ - Cat memes obsession
+ - Gardening
 
